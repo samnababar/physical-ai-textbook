@@ -1,0 +1,81 @@
+/* 🌙 Dark Mode Theme with Blue & White */
+html[data-theme='dark'] {
+  --ifm-background-color: #0e0f13;          /* page background */
+  --ifm-background-surface-color: #1a1c23;  /* cards and surfaces */
+
+  /* Primary color (blue highlights) */
+  --ifm-color-primary: #1e90ff;             /* Dodger Blue */
+  --ifm-color-primary-dark: #187bcd;
+  --ifm-color-primary-darker: #145a9a;
+  --ifm-color-primary-light: #63b3ff;
+  --ifm-color-primary-lighter: #a0d4ff;
+
+  /* Text colors */
+  --ifm-heading-color: #ffffff;             /* headings white */
+  --ifm-font-color-base: #f5f5f5;           /* body text white */
+
+  /* Links */
+  --ifm-link-color: #1e90ff;                /* blue links */
+  --ifm-link-hover-color: #63b3ff;
+
+  /* Cards and surfaces */
+  --ifm-card-background-color: #1d1f27;     /* card background */
+  --ifm-card-border-color: #2b2f3a;         /* card border */
+}
+
+/* Light Mode fallback/Default variables */
+:root {
+  --ifm-color-primary: #1e90ff;              /* primary blue in light mode */
+}
+
+/* Navbar styling */
+.navbar {
+  backdrop-filter: blur(6px);
+  /* Using a subtle, semi-transparent blue tint */
+  background-color: rgba(30, 144, 255, 0.1); 
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-weight: 600;
+  /* Using the explicitly defined heading color for consistency */
+  color: var(--ifm-heading-color, #ffffff); 
+}
+
+/* Buttons */
+.button, .button--primary {
+  background-color: var(--ifm-color-primary);
+  color: #ffffff;
+  border-radius: 6px;
+  padding: 8px 16px;
+  transition: 0.3s;
+}
+
+.button:hover, .button--primary:hover {
+  background-color: var(--ifm-color-primary-light);
+}
+
+/* Tables (Blue header, white text) */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th {
+  background-color: var(--ifm-color-primary, #1e90ff);
+  color: #ffffff;
+  padding: 12px 15px;
+  text-align: left;
+}
+
+td {
+  /* Using card background for default cell background in dark mode */
+  background-color: var(--ifm-card-background-color, #1d1f27); 
+  color: var(--ifm-font-color-base, #ffffff);
+  padding: 12px 15px;
+}
+
+tr:nth-child(even) td {
+  background-color: #252732; /* slightly lighter row */
+}
