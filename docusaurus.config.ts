@@ -18,10 +18,9 @@ const config: Config = {
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'ur'],
+    locales: ['en'],
     localeConfigs: {
       en: { label: 'English', direction: 'ltr', htmlLang: 'en-US' },
-      ur: { label: 'اردو', direction: 'rtl', htmlLang: 'ur-PK' },
     },
   },
 
