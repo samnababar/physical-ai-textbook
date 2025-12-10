@@ -1,0 +1,26 @@
+{
+  "id": "ch3-nvidia-isaac/week-1",
+  "title": "Week 1: Introduction to NVIDIA Isaac",
+  "description": "Welcome to Chapter 3! Now that we have a grasp of ROS 2 and simulation, it's time to build the \"brain\" of our robot. For this, we turn to the NVIDIA Isaac platform, a powerful toolkit for developing AI-powered robots.",
+  "source": "@site/docs/ch3-nvidia-isaac/week-1.md",
+  "sourceDirName": "ch3-nvidia-isaac",
+  "slug": "/ch3-nvidia-isaac/week-1",
+  "permalink": "/docs/ch3-nvidia-isaac/week-1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 4: ROS 2 and Unity Integration",
+    "permalink": "/docs/ch2-digital-twin/week-4"
+  },
+  "next": {
+    "title": "Week 2: Isaac Sim",
+    "permalink": "/docs/ch3-nvidia-isaac/week-2"
+  }
+}

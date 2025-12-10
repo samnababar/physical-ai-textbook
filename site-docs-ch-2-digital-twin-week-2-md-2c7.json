@@ -1,0 +1,26 @@
+{
+  "id": "ch2-digital-twin/week-2",
+  "title": "Week 2: Gazebo Simulation",
+  "description": "Gazebo is a mature, open-source robotics simulator. It is the go-to choice for many roboticists, especially those working with ROS. Gazebo provides a rich set of features for simulating robots, sensors, and environments.",
+  "source": "@site/docs/ch2-digital-twin/week-2.md",
+  "sourceDirName": "ch2-digital-twin",
+  "slug": "/ch2-digital-twin/week-2",
+  "permalink": "/docs/ch2-digital-twin/week-2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 1: Introduction to Simulation",
+    "permalink": "/docs/ch2-digital-twin/week-1"
+  },
+  "next": {
+    "title": "Week 3: Unity Simulation",
+    "permalink": "/docs/ch2-digital-twin/week-3"
+  }
+}

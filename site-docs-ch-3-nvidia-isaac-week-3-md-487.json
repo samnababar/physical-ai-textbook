@@ -1,0 +1,26 @@
+{
+  "id": "ch3-nvidia-isaac/week-3",
+  "title": "Week 3: Isaac Gym",
+  "description": "NVIDIA Isaac Gym is a high-performance reinforcement learning (RL) platform. It is designed to train RL agents for robotic tasks at a massive scale by leveraging the parallel processing power of NVIDIA GPUs.",
+  "source": "@site/docs/ch3-nvidia-isaac/week-3.md",
+  "sourceDirName": "ch3-nvidia-isaac",
+  "slug": "/ch3-nvidia-isaac/week-3",
+  "permalink": "/docs/ch3-nvidia-isaac/week-3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 2: Isaac Sim",
+    "permalink": "/docs/ch3-nvidia-isaac/week-2"
+  },
+  "next": {
+    "title": "Week 4: Isaac ROS",
+    "permalink": "/docs/ch3-nvidia-isaac/week-4"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ch2-digital-twin/week-3",
+  "title": "Week 3: Unity Simulation",
+  "description": "Unity is a powerful and versatile game engine that has gained traction in the robotics community for its high-fidelity graphics, ease of use, and extensive asset store. It is particularly well-suited for training and testing computer vision and reinforcement learning models.",
+  "source": "@site/docs/ch2-digital-twin/week-3.md",
+  "sourceDirName": "ch2-digital-twin",
+  "slug": "/ch2-digital-twin/week-3",
+  "permalink": "/docs/ch2-digital-twin/week-3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 2: Gazebo Simulation",
+    "permalink": "/docs/ch2-digital-twin/week-2"
+  },
+  "next": {
+    "title": "Week 4: ROS 2 and Unity Integration",
+    "permalink": "/docs/ch2-digital-twin/week-4"
+  }
+}

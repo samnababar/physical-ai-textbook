@@ -1,0 +1,26 @@
+{
+  "id": "ch4-vla/week-3",
+  "title": "Week 3: Training VLAs",
+  "description": "Training a Vision-Language-Action model is a complex process that requires a large amount of demonstration data. The most common training paradigm is Behavior Cloning (BC).",
+  "source": "@site/docs/ch4-vla/week-3.md",
+  "sourceDirName": "ch4-vla",
+  "slug": "/ch4-vla/week-3",
+  "permalink": "/docs/ch4-vla/week-3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 2: VLA Architectures",
+    "permalink": "/docs/ch4-vla/week-2"
+  },
+  "next": {
+    "title": "Week 4: Deploying VLAs on Robots",
+    "permalink": "/docs/ch4-vla/week-4"
+  }
+}

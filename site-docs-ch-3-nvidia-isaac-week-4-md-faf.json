@@ -1,0 +1,26 @@
+{
+  "id": "ch3-nvidia-isaac/week-4",
+  "title": "Week 4: Isaac ROS",
+  "description": "NVIDIA Isaac ROS is a collection of hardware-accelerated packages that enable ROS developers to build high-performance robotics applications. It bridges the gap between the powerful NVIDIA Isaac SDKs and the familiar ROS 2 ecosystem.",
+  "source": "@site/docs/ch3-nvidia-isaac/week-4.md",
+  "sourceDirName": "ch3-nvidia-isaac",
+  "slug": "/ch3-nvidia-isaac/week-4",
+  "permalink": "/docs/ch3-nvidia-isaac/week-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 3: Isaac Gym",
+    "permalink": "/docs/ch3-nvidia-isaac/week-3"
+  },
+  "next": {
+    "title": "Week 1: Introduction to VLAs",
+    "permalink": "/docs/ch4-vla/week-1"
+  }
+}

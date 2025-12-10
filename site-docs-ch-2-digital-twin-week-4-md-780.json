@@ -1,0 +1,26 @@
+{
+  "id": "ch2-digital-twin/week-4",
+  "title": "Week 4: ROS 2 and Unity Integration",
+  "description": "The real power of using Unity for robotics simulation comes from its ability to connect with ROS 2. This allows us to leverage the vast ecosystem of ROS 2 tools and packages while taking advantage of Unity's advanced rendering capabilities.",
+  "source": "@site/docs/ch2-digital-twin/week-4.md",
+  "sourceDirName": "ch2-digital-twin",
+  "slug": "/ch2-digital-twin/week-4",
+  "permalink": "/docs/ch2-digital-twin/week-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 3: Unity Simulation",
+    "permalink": "/docs/ch2-digital-twin/week-3"
+  },
+  "next": {
+    "title": "Week 1: Introduction to NVIDIA Isaac",
+    "permalink": "/docs/ch3-nvidia-isaac/week-1"
+  }
+}

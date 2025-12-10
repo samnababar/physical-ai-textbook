@@ -1,0 +1,26 @@
+{
+  "id": "ch1-ros2/week-4",
+  "title": "Week 4: Launch Files and Parameters",
+  "description": "As our robotics systems grow in complexity, running each node manually becomes tedious. Launch files allow us to start and configure a collection of nodes at once. Parameters allow us to configure nodes without recompiling our code.",
+  "source": "@site/docs/ch1-ros2/week-4.md",
+  "sourceDirName": "ch1-ros2",
+  "slug": "/ch1-ros2/week-4",
+  "permalink": "/docs/ch1-ros2/week-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 3: ROS 2 Services and Actions",
+    "permalink": "/docs/ch1-ros2/week-3"
+  },
+  "next": {
+    "title": "Week 1: Introduction to Simulation",
+    "permalink": "/docs/ch2-digital-twin/week-1"
+  }
+}

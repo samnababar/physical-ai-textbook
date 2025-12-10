@@ -1,0 +1,26 @@
+{
+  "id": "ch1-ros2/week-3",
+  "title": "Week 3: ROS 2 Services and Actions",
+  "description": "While topics are great for continuous data streams, sometimes we need a request/reply interaction. This is where Services and Actions come in.",
+  "source": "@site/docs/ch1-ros2/week-3.md",
+  "sourceDirName": "ch1-ros2",
+  "slug": "/ch1-ros2/week-3",
+  "permalink": "/docs/ch1-ros2/week-3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 2: ROS 2 Nodes and Topics",
+    "permalink": "/docs/ch1-ros2/week-2"
+  },
+  "next": {
+    "title": "Week 4: Launch Files and Parameters",
+    "permalink": "/docs/ch1-ros2/week-4"
+  }
+}

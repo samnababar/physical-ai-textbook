@@ -1,0 +1,22 @@
+{
+  "id": "ch4-vla/week-4",
+  "title": "Week 4: Deploying VLAs on Robots",
+  "description": "Once a Vision-Language-Action model is trained, the next step is to deploy it on a physical robot. This is often referred to as the \"inference\" phase.",
+  "source": "@site/docs/ch4-vla/week-4.md",
+  "sourceDirName": "ch4-vla",
+  "slug": "/ch4-vla/week-4",
+  "permalink": "/docs/ch4-vla/week-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 3: Training VLAs",
+    "permalink": "/docs/ch4-vla/week-3"
+  }
+}

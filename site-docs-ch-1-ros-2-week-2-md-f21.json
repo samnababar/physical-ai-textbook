@@ -1,0 +1,26 @@
+{
+  "id": "ch1-ros2/week-2",
+  "title": "Week 2: ROS 2 Nodes and Topics",
+  "description": "This week, we'll explore two of the most fundamental concepts in ROS 2: Nodes and Topics. They are the building blocks of any ROS 2 application.",
+  "source": "@site/docs/ch1-ros2/week-2.md",
+  "sourceDirName": "ch1-ros2",
+  "slug": "/ch1-ros2/week-2",
+  "permalink": "/docs/ch1-ros2/week-2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 1: Introduction to ROS 2",
+    "permalink": "/docs/ch1-ros2/week-1"
+  },
+  "next": {
+    "title": "Week 3: ROS 2 Services and Actions",
+    "permalink": "/docs/ch1-ros2/week-3"
+  }
+}

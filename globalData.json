@@ -1,0 +1,113 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "ch1-ros2/week-1",
+              "path": "/docs/ch1-ros2/week-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch1-ros2/week-2",
+              "path": "/docs/ch1-ros2/week-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch1-ros2/week-3",
+              "path": "/docs/ch1-ros2/week-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch1-ros2/week-4",
+              "path": "/docs/ch1-ros2/week-4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch2-digital-twin/week-1",
+              "path": "/docs/ch2-digital-twin/week-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch2-digital-twin/week-2",
+              "path": "/docs/ch2-digital-twin/week-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch2-digital-twin/week-3",
+              "path": "/docs/ch2-digital-twin/week-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch2-digital-twin/week-4",
+              "path": "/docs/ch2-digital-twin/week-4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch3-nvidia-isaac/week-1",
+              "path": "/docs/ch3-nvidia-isaac/week-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch3-nvidia-isaac/week-2",
+              "path": "/docs/ch3-nvidia-isaac/week-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch3-nvidia-isaac/week-3",
+              "path": "/docs/ch3-nvidia-isaac/week-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch3-nvidia-isaac/week-4",
+              "path": "/docs/ch3-nvidia-isaac/week-4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch4-vla/week-1",
+              "path": "/docs/ch4-vla/week-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch4-vla/week-2",
+              "path": "/docs/ch4-vla/week-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch4-vla/week-3",
+              "path": "/docs/ch4-vla/week-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch4-vla/week-4",
+              "path": "/docs/ch4-vla/week-4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ch2-digital-twin/week-1",
+  "title": "Week 1: Introduction to Simulation",
+  "description": "In robotics, simulation is an indispensable tool. It allows us to design, test, and iterate on our robot's hardware and software in a virtual environment before deploying it in the real world. This saves time, money, and reduces the risk of damaging expensive hardware.",
+  "source": "@site/docs/ch2-digital-twin/week-1.md",
+  "sourceDirName": "ch2-digital-twin",
+  "slug": "/ch2-digital-twin/week-1",
+  "permalink": "/docs/ch2-digital-twin/week-1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 4: Launch Files and Parameters",
+    "permalink": "/docs/ch1-ros2/week-4"
+  },
+  "next": {
+    "title": "Week 2: Gazebo Simulation",
+    "permalink": "/docs/ch2-digital-twin/week-2"
+  }
+}
