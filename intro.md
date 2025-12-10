@@ -2,46 +2,46 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# تعارف (Tutorial Intro)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+آئیے **ڈاکسورس کو 5 منٹ سے بھی کم وقت میں** دریافت کریں۔
 
-## Getting Started
+## شروع کرنا (Getting Started)
 
-Get started by **creating a new site**.
+**ایک نئی سائٹ بنا کر** شروع کریں۔
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+یا **فوری طور پر ڈاکسورس آزمائیں** **[docusaurus.new](https://docusaurus.new)** کے ساتھ۔
 
-### What you'll need
+### آپ کو کیا چاہیے ہوگا (What you'll need)
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+-   [Node.js](https://nodejs.org/en/download/) ورژن 20.0 یا اس سے زیادہ:
+    -   Node.js انسٹال کرتے وقت، آپ کو تمام چیک باکسز کو نشان زد کرنے کی سفارش کی جاتی ہے جو انحصار سے متعلق ہیں۔
 
-## Generate a new site
+## ایک نئی سائٹ بنائیں (Generate a new site)
 
-Generate a new Docusaurus site using the **classic template**.
+**کلاسک ٹیمپلیٹ** کا استعمال کرتے ہوئے ایک نئی ڈاکسورس سائٹ بنائیں۔
 
-The classic template will automatically be added to your project after you run the command:
+کلاسک ٹیمپلیٹ آپ کے پروجیکٹ میں خود بخود شامل ہو جائے گا جب آپ کمانڈ چلائیں گے:
 
 ```bash
 npm init docusaurus@latest my-website classic
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+آپ اس کمانڈ کو کمانڈ پرامپٹ، پاورشیل، ٹرمینل، یا اپنے کوڈ ایڈیٹر کے کسی بھی دوسرے مربوط ٹرمینل میں ٹائپ کر سکتے ہیں۔
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+کمانڈ ڈاکسورس کو چلانے کے لیے آپ کو درکار تمام ضروری انحصار بھی انسٹال کرتی ہے۔
 
-## Start your site
+## اپنی سائٹ شروع کریں (Start your site)
 
-Run the development server:
+ڈیولپمنٹ سرور چلائیں:
 
 ```bash
 cd my-website
 npm run start
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+`cd` کمانڈ آپ جس ڈائریکٹری کے ساتھ کام کر رہے ہیں اسے تبدیل کرتی ہے۔ اپنی نئی بنائی گئی ڈاکسورس سائٹ کے ساتھ کام کرنے کے لیے، آپ کو ٹرمینل کو وہاں نیویگیٹ کرنا ہوگا۔
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+`npm run start` کمانڈ آپ کی ویب سائٹ کو مقامی طور پر بناتی ہے اور اسے ایک ڈیولپمنٹ سرور کے ذریعے http://localhost:3000/ پر دیکھنے کے لیے تیار کرتی ہے۔
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+`docs/intro.md` (یہ صفحہ) کھولیں اور کچھ لائنیں ترمیم کریں: سائٹ **خود بخود دوبارہ لوڈ ہو جاتی ہے** اور آپ کی تبدیلیاں دکھاتی ہے۔
