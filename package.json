@@ -1,0 +1,10 @@
+{
+  "name": "textbook-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd textbook && npm run build",
+    "start": "cd textbook && npm run start",
+    "install:all": "npm install && cd textbook && npm install"
+  }
+}

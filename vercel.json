@@ -1,0 +1,6 @@
+{
+    "buildCommand": "cd textbook && npm run build",
+    "outputDirectory": "textbook/build",
+    "installCommand": "npm install && cd textbook && npm install",
+    "ignoreCommand": "git check-ignore -q $FILE || exit 0"
+}
